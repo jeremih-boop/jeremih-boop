@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalijay
-- 👀 I’m interested in information security
-- 🌱 I’m currently learning ethical hacking
+- 👀 I’m interested in information security, AWS and Cloud Computing
+- 🌱 I’m currently a Certified Ethical Hacker
 - 💞️ I’m looking to collaborate on hacktivities for educational purpose
 - 📫 How to reach me jerrymic019@gmail.com
 
